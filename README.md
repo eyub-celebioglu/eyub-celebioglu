@@ -2,7 +2,7 @@
 
 M2 student in AI, Vision & Robotics at Université de Lorraine (Nancy, France).
 
-I work on reinforcement learning, motion planning and computer vision for autonomous robots. Last year I did my M1 research project with Olivier Buffet (Inria / LORIA) on autonomous navigation in uncertain environments: RRT planning, a shortcut variant called RRTSC, and a DQN agent that follows the planned paths.
+I work on reinforcement learning, motion planning and computer vision for autonomous robots. Last year I did my M1 research project on autonomous navigation in uncertain environments: RRT planning, a shortcut variant called RRTSC, and a DQN agent that follows the planned paths.
 
 I would like to become a researcher, and I am looking for a six-month research internship in 2027.
 
