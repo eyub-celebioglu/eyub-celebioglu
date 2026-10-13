@@ -1,4 +1,5 @@
-<img src="cat.gif" width="180" align="right" alt="cat">
+<img src="cat.gif" width="180" alt="cat">
+
 ### Eyub Celebioglu
 
 M2 student in AI, Vision & Robotics at Université de Lorraine (Nancy, France).
