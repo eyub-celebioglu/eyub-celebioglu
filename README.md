@@ -4,7 +4,7 @@
 
 Second-year Master's student in AI, Vision & Robotics at Université de Lorraine (Nancy, France).
 
-I work on machine learning, reinforcement learning and computer vision for robotics. Last year I did my first-year Master's research project with Olivier Buffet (Inria / LORIA) on autonomous navigation in uncertain environments: RRT planning, a shortcut variant called RRTSC, and a DQN agent that follows the planned paths.
+I work on machine learning, reinforcement learning and computer vision for robotics. Last year I did my first-year Master's research project (Inria / LORIA) on autonomous navigation in uncertain environments: RRT planning, a shortcut variant called RRTSC, and a DQN agent that follows the planned paths.
 
 I would like to become a researcher, and I am looking for a six-month research internship in 2027.
 
