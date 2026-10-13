@@ -20,10 +20,9 @@ I mostly write Python (PyTorch) and C++. Outside of that: anime, cats, and a sma
 
 [website](https://eyub-celebioglu.github.io) · [cv](https://eyub-celebioglu.github.io/cv.pdf) · eyub.celebioglu@gmail.com
 
-```
  /\_/\
 ( o.o )
  > ^ <
-```
 
-```
+
+
