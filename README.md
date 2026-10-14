@@ -1,4 +1,7 @@
-<img src="cat.gif" width="180" alt="cat">
+<div style="display: flex; gap: 15px; align-items: center;">
+  <img src="cat.gif" width="180" alt="cat">
+  <img src="frieren.gif" width="180" alt="frieren">
+</div>
 
 ### Eyub Celebioglu
 
