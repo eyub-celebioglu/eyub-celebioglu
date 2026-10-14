@@ -1,4 +1,4 @@
-<div style="display: flex; gap: 15px; align-items: center;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <img src="cat.gif" width="180" alt="cat">
   <img src="frieren.gif" width="180" alt="frieren">
 </div>
