@@ -13,7 +13,7 @@ I would like to become a researcher, and I am looking for a six-month research i
 Most of what's here is coursework or things I built to understand how they work, often from scratch:
 
 - [XOR-NeuralNetwork-CPP](https://github.com/eyub-celebioglu/XOR-NeuralNetwork-CPP): an MLP and backprop in plain C++, no ML library
-- [snake-DQN](https://github.com/eyub-celebioglu/snake-DQN): deep Q-learning on Snake
+- [navigation-autonome-rrt-dqn](https://github.com/eyub-celebioglu/navigation-autonome-rrt-dqn):  autonomous navigation of a mobile robot
 - [anime_pictures_generator](https://github.com/eyub-celebioglu/anime_pictures_generator): a DCGAN that generates anime faces
 - [3Dengine](https://github.com/eyub-celebioglu/3Dengine) / [Minecraft-cpp](https://github.com/eyub-celebioglu/Minecraft-cpp): an OpenGL engine with physics, then a voxel engine
 - [MaidChan](https://github.com/eyub-celebioglu/MaidChan): a voice assistant running local LLMs with Ollama
